@@ -51,7 +51,7 @@ python main.py
 ### 🖼️ Screenshots
 | Start Screen  | In-Game  | Game Over  |
 |--------------|---------|-----------|
-| ![Start](screenshots/start_game.png) | ![Game](screenshots/game_play.png) | ![Game Over](screenshots/game_over.png) |
+| ![Start](screenshots/start_game.PNG) | ![Game](screenshots/game_play.png) | ![Game Over](screenshots/game_over.PNG) |
 
 ---
 
